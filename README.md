@@ -1,1 +1,1 @@
-# Build-A-Clock-With-JavaScript![screencapture-file-D-full-stack-developer-Task-T15-index-html-2023-03-02-13_41_14](https://user-images.githubusercontent.com/121854064/222369643-138acead-f209-4574-8c05-ea38c96b25bc.png)
+# Clock-With-JavaScript![screencapture-file-D-full-stack-developer-Task-T15-index-html-2023-03-02-13_41_14](https://user-images.githubusercontent.com/121854064/222369643-138acead-f209-4574-8c05-ea38c96b25bc.png)
